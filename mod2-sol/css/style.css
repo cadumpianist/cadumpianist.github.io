@@ -89,6 +89,10 @@ p {
   .col-md-6 {
     width: 50%;
   }
+  .col-md-12 {
+  	width: 100%;
+  }
+
 }
 		
 </style>
